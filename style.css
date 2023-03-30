@@ -1,1 +1,6 @@
-
+header{
+    background-color: cadetblue;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
