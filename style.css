@@ -1,6 +1,8 @@
-header{
-    background-color: cadetblue;
-    color: white;
-    display: flex;
-    justify-content: space-around;
-}
+h1{color: black;
+background-color: red;}
+
+.cabeçalho{color:red;
+width: 30%;
+background-color: black;}
+.paragrafo{color:red}
+
