@@ -1,9 +1,61 @@
-h1{color: black;
-background-color: red;
-font-family: 'Chivo Mono', monospace;}
+* {
+    margin: 0 16px;
+    padding: 24px 0;;
+    }
 
-.cabeçalho{color:red;
-width: 30%;
-background-color: black;}
-.paragrafo{color:red}
+.cabeçalho {
+    background-color: blue;
+    color:white;
+    display:flex;
+    justify-content: space-around;
+    padding: 24px 0;
+    font-size: 24px;
+    }
 
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    }
+
+.escola {
+    background-image: linear-gradient(#383D58,#00c0eb);
+    color: white;
+    display:flex;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    }
+
+.escola-conteudo{
+    width: 35%;
+    }
+
+.escola-titulo {
+    padding: 24px 0;
+    }
+
+body{
+    font-family: 'Castoro Titling', cursive;
+    font-family: 'Instrument Serif', serif;
+}
+
+.estudante-div {
+    text-align: center;
+    }
+
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+    }
+
+.estudante-todos {
+    display:grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    }
+
+footer{
+    background-color: black;
+    padding: 15px 0;
+    text-align: center;
+    }
