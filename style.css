@@ -12,7 +12,7 @@ header{
     font-size: 24px;
     }
 
-cabecalho-lista-item{
+.scabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     }
@@ -27,11 +27,11 @@ section{
     padding: 24px 0;
     }
 
-escola-conteudo{
+.escola-conteudo{
     width: 35%;
     }
 
-escola-titulo {
+.escola-titulo {
     padding: 24px 0;
     align-items: top;
     }
@@ -41,16 +41,16 @@ body{
     font-family: 'Instrument Serif', serif;
 }
 
-estudante-div {
+.estudante-div {
     text-align: center;
     }
 
-estudante-titulo{
+.estudante-titulo{
     text-align: center;
     padding: 50px 0;
     }
 
-estudante-todos {
+.estudante-todos {
     display:grid;
     grid-template-columns: 20% 20% 20% 20%;
     }
