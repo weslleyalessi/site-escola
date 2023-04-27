@@ -3,8 +3,8 @@
     padding: 24px 0;;
     }
 
-cabeçalho {
-    background-color: blue;
+header{
+    background-color: #383D58;;
     color:white;
     display:flex;
     justify-content: space-around;
@@ -17,7 +17,7 @@ cabecalho-lista-item{
     margin: 0 16px;
     }
 
-escola {
+section{
     background-image: linear-gradient(#383D58,#00c0eb);
     color: white;
     display:flex;
@@ -33,6 +33,7 @@ escola-conteudo{
 
 escola-titulo {
     padding: 24px 0;
+    align-items: top;
     }
 
 body{
